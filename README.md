@@ -1,8 +1,13 @@
 ### hi, i'm mattia
 
-filmmaker, photographer and designer based in parma, italy.
+filmmaker, designer & photographer based in parma, italy. i make short films and visual campaigns for technology brands and cultural institutions.
 
-i make videos about tech, creativity and the way we live with our devices. most of what's here is small tools and experiments i build for my own creative workflow.
+on github i keep the small tools i build for my own creative workflow: claude skills, final cut automations, notion systems. made with ai, used every day.
 
-- site: [mattiagiannattasio.com](https://mattiagiannattasio.com)
-- currently: visual director at fondazione magnani-rocca
+**latest from [the creative lens](https://giannattasiomattia.substack.com)**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[site](https://mattiagiannattasio.com) · [youtube](https://www.youtube.com/@mattia_giannattasio) · [instagram](https://www.instagram.com/mattia_giannattasio/) · [newsletter](https://giannattasiomattia.substack.com)
+
+currently: visual director at fondazione magnani-rocca
