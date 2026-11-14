@@ -4,7 +4,7 @@ filmmaker, designer & photographer based in parma, italy. i make short films and
 
 on github i keep the small tools i build for my own creative workflow: claude skills, final cut automations, notion systems. made with ai, used every day.
 
-**latest from [the creative lens](https://giannattasiomattia.substack.com)**
+**latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
