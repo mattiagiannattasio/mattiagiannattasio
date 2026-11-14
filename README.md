@@ -6,6 +6,9 @@ on github i keep the small tools i build for my own creative workflow: claude sk
 
 **latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
+- [turned my iPhone into a thermal camera](https://www.youtube.com/shorts/1UuDAcqY7VI)
+- [anybody there?](https://www.youtube.com/shorts/vxuclBVNQhY)
+- [what if none of this was connection?](https://www.youtube.com/shorts/VswNd0upy2c)
 <!-- BLOG-POST-LIST:END -->
 
 [site](https://mattiagiannattasio.com) · [youtube](https://www.youtube.com/@mattia_giannattasio) · [instagram](https://www.instagram.com/mattia_giannattasio/) · [newsletter](https://giannattasiomattia.substack.com)
