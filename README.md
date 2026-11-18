@@ -6,7 +6,7 @@ on github i keep the small tools i build for my own creative workflow: claude sk
 
 **latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
-- [my entire creator setup fits in my pocket](https://www.youtube.com/shorts/-33m2nwNTa0)
+- [i tried to film the wind with my iPhone](https://www.youtube.com/shorts/nlfo6TcLpko)
 - [the memories you forgot are still inside you](https://www.youtube.com/shorts/HTOyJ6vBpho)
 - [your phone is a weapon of mass distraction](https://www.youtube.com/shorts/RQDowNWpXIQ)
 <!-- BLOG-POST-LIST:END -->
