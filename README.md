@@ -6,9 +6,9 @@ on github i keep the small tools i build for my own creative workflow: claude sk
 
 **latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
+- [is it a candle flame or a wildfire?](https://www.youtube.com/shorts/0kT5lHlejGk)
 - [i tried to film the wind with my iPhone](https://www.youtube.com/shorts/nlfo6TcLpko)
 - [the memories you forgot are still inside you](https://www.youtube.com/shorts/HTOyJ6vBpho)
-- [your phone is a weapon of mass distraction](https://www.youtube.com/shorts/RQDowNWpXIQ)
 <!-- BLOG-POST-LIST:END -->
 
 [site](https://mattiagiannattasio.com) · [youtube](https://www.youtube.com/@mattia_giannattasio) · [instagram](https://www.instagram.com/mattia_giannattasio/) · [newsletter](https://giannattasiomattia.substack.com)
