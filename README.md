@@ -6,9 +6,9 @@ on github i keep the small tools i build for my own creative workflow: claude sk
 
 **latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
+- [what are your dreams trying to tell you?](https://www.youtube.com/shorts/FZlAPsQlPvo)
 - [i 3D printed a perpetual desk calendar](https://www.youtube.com/shorts/aK3YjiP-PDE)
 - [the iPad stand i didn&#39;t know i needed](https://www.youtube.com/shorts/ss7sPjgJ4PY)
-- [is it a candle flame or a wildfire?](https://www.youtube.com/shorts/0kT5lHlejGk)
 <!-- BLOG-POST-LIST:END -->
 
 [site](https://mattiagiannattasio.com) · [youtube](https://www.youtube.com/@mattia_giannattasio) · [instagram](https://www.instagram.com/mattia_giannattasio/) · [newsletter](https://giannattasiomattia.substack.com)
