@@ -6,9 +6,9 @@ on github i keep the small tools i build for my own creative workflow: claude sk
 
 **latest on [youtube](https://www.youtube.com/@mattia_giannattasio)**
 <!-- BLOG-POST-LIST:START -->
+- [a visual poem about finding your own path](https://www.youtube.com/shorts/Ncf9qjDGTcw)
 - [the app where i keep every idea](https://www.youtube.com/shorts/WpBNcpNo0Ng)
 - [i found the camera that started everything](https://www.youtube.com/shorts/V9jEm2JWMf0)
-- [what are your dreams trying to tell you?](https://www.youtube.com/shorts/FZlAPsQlPvo)
 <!-- BLOG-POST-LIST:END -->
 
 [site](https://mattiagiannattasio.com) · [youtube](https://www.youtube.com/@mattia_giannattasio) · [instagram](https://www.instagram.com/mattia_giannattasio/) · [newsletter](https://giannattasiomattia.substack.com)
